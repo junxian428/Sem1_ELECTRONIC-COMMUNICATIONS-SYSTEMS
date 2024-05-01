@@ -1,4 +1,4 @@
-# Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS
+![image](https://github.com/junxian428/Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS/assets/58724748/78706492-d8ad-4839-a075-4006d3c1f197)# Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS
 
 Next Week no class but remind assignment
 
@@ -18,7 +18,9 @@ Q2 Chapter 2 Amplitude Modulation
 ![image](https://github.com/junxian428/Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS/assets/58724748/3af73aef-d071-4c2a-9917-a8f78008db3b)
 
 
-Q3
+Q3 Chapter 3 Gaussian White Noise 
+
+![image](https://github.com/junxian428/Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS/assets/58724748/5206aa3a-4688-44b4-bcde-770aeb2dc028)
 
 Q4 GCE A level Electronics – Chapter 9: Communications systems
  
