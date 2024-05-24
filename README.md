@@ -1,3 +1,8 @@
+Simulation
+
+use Proteus
+
+
 ![image](https://github.com/junxian428/Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS/assets/58724748/78706492-d8ad-4839-a075-4006d3c1f197)# Sem1_ELECTRONIC-COMMUNICATIONS-SYSTEMS
 
 Next Week no class but remind assignment
